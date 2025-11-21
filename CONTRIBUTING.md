@@ -45,7 +45,7 @@
                     <sub><b>lakshmi priya</b></sub>
                 </a> 
             </td>
-    
+
     <td align="center">
         <a href="https://github.com/khushbukarki">
             <img src="https://avatars.githubusercontent.com/u/64301266?v=4" width="100px;" alt="Ali Solanki"/>
