@@ -45,11 +45,12 @@
                     <sub><b>lakshmi priya</b></sub>
                 </a> 
             </td>
+    
     <td align="center">
-        <a href="https://github.com/itsTIMUS">
-            <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
+        <a href="https://github.com/khushbukarki">
+            <img src="https://avatars.githubusercontent.com/u/64301266?v=4" width="100px;" alt="Ali Solanki"/>
             <br />
-            <sub><b>Sumit Saha</b></sub>
+            <sub><b>CoderKK</b></sub>
         </a>
     </td>
     <td align="center">
